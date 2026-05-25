@@ -1,4 +1,4 @@
-# Deploying the jupiter website using microservices!
+# Deploying the jupiter website using microservices
 
 
 
